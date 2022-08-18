@@ -1,2 +1,0 @@
-
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2019%2F11%2Fcover-pic.jpeg&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fthe-beginners-guide-to-git-github%2F&tbnid=3rt0xsFgGfRz6M&vet=12ahUKEwiozZyJlNH5AhUKqRoKHUmhA_4QMygzegQIARBl..i&docid=B5s4_OPXYiC_kM&w=1200&h=600&q=image%20for%20github&ved=2ahUKEwiozZyJlNH5AhUKqRoKHUmhA_4QMygzegQIARBl">
