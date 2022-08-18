@@ -1,2 +1,2 @@
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.howtogeek.com%2Fwp-content%2Fuploads%2F2017%2F09%2F1-github-explained.png%3Fheight%3D200p%26trim%3D2%2C2%2C2%2C2&imgrefurl=https%3A%2F%2Fwww.howtogeek.com%2F180167%2Fhtg-explains-what-is-github-and-what-do-geeks-use-it-for%2F&tbnid=RxCYEsCFuvSkcM&vet=12ahUKEwiozZyJlNH5AhUKqRoKHUmhA_4QMygKegUIARDzAQ..i&docid=fFPuqbbApQCAOM&w=1292&h=492&q=image%20for%20github&ved=2ahUKEwiozZyJlNH5AhUKqRoKHUmhA_4QMygKegUIARDzAQ
-<img src=">
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fcontent%2Fimages%2F2019%2F11%2Fcover-pic.jpeg&imgrefurl=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fthe-beginners-guide-to-git-github%2F&tbnid=3rt0xsFgGfRz6M&vet=12ahUKEwiozZyJlNH5AhUKqRoKHUmhA_4QMygzegQIARBl..i&docid=B5s4_OPXYiC_kM&w=1200&h=600&q=image%20for%20github&ved=2ahUKEwiozZyJlNH5AhUKqRoKHUmhA_4QMygzegQIARBl">
